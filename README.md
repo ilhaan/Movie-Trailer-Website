@@ -4,9 +4,10 @@ This repository consists of my work for Project 1 of [Udacity's Full Stack Web D
 
 ## Scripts
 The repostiory consists of the following scripts:
-1.  'media.py'
-2.  'entertainment_center.py'
-3.  'fresh_tomatoes.py'
+
+1.  `media.py`
+2.  `entertainment_center.py`
+3.  `fresh_tomatoes.py`
 
 ## Instructions
 * Install [Python](https://www.python.org/).
