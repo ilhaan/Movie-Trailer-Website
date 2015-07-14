@@ -12,6 +12,7 @@ The repostiory consists of the following scripts:
 ## Instructions
 * Install [Python](https://www.python.org/).
 * Clone this repo: `git clone https://github.com/ilhaan/Movie-Trailer-Website.git`.
+* Change your working directory to the repository: `cd Movie-Trailer-Website/`
 * Run `python entertainment_center.py` to generate and open the movie trailer webpage.
 
 Your default web browser will open the movie trailers page and display the box art for the movies that have been selected for this project. Clicking a box art image will play it's respective trailer.
